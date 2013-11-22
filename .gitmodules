@@ -1,0 +1,3 @@
+[submodule "NewRelic"]
+	path = NewRelic
+	url = git://github.com/ayoubkhayatti/NewRelic_iOS_Agent_1.396.git
